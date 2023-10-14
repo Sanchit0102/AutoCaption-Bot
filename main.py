@@ -24,7 +24,7 @@ start_message = """
 
 about_message = """
 <b>• Name : <a href=https://t.me/DS_CAPTION_BOT>DS_CAPTION_BOT</a></b>
-<b>• Developer : <a href=https://t.me/THE_DS_OFFICIAL>[𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧]</a></b>
+<b>• Developer : <a href=https://t.me/THE_DS_OFFICIAL>𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧</a></b>
 <b>• Language : Python3</b>
 <b>• Library : Pyrogram v{version}</b>
 <b>• Updates : <a href=https://t.me/The_Silent_Teams>THE_SILENT_TEAM</a></b>
