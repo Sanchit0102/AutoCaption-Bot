@@ -23,7 +23,7 @@ start_message = """
 <b>@THE_DS_OFFICIAL</b>"""
 
 about_message = """
-<b>• Name : <a href=https://t.me/{}>{}</a></b>
+<b>• Name : <a href=https://t.me/DS_CAPTION_BOT>DS_CAPTION_BOT</a></b>
 <b>• Developer : <a href=https://t.me/THE_DS_OFFICIAL>[𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧]</a></b>
 <b>• Language : Python3</b>
 <b>• Library : Pyrogram v{version}</b>
